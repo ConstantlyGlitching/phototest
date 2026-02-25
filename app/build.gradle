@@ -5,6 +5,7 @@ plugins {
 
 android {
     compileSdk 34
+    namespace "com.fotokayit.app"
     defaultConfig {
         applicationId "com.fotokayit.app"
         minSdk 26
